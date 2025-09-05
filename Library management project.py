@@ -8,7 +8,7 @@ def start():
         print("                                     ")
         print("                                     ")
         print("       Library Management System     ")
-        print("    By-Poorav Rawat and Pari Gupta   ")
+        print("           By-Poorav Rawat           ")
         print("--------------------------------------------")
         print("Enter 1. To Display all books")
         print("Enter 2. To Issue a book")
@@ -37,3 +37,4 @@ def start():
         except ValueError:
             print("Please input as suggested.")
 start()
+
